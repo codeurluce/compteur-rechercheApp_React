@@ -1,4 +1,4 @@
-export default function Counter({ children }){ 
+export default function Counter({style, children }){ 
 
-    return <div>{children}</div>
+    return <div style={style}>{children}</div>
 }

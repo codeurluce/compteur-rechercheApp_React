@@ -1,8 +1,10 @@
 // import logo from './logo.svg';
 import './App.css';
+import "./styles.css";
 import { useState } from 'react';
 import Button from './components/Button';
 import Counter from './components/Counter';
+import SearchBar from './components/SearchBar'
 
 function App() {
 
@@ -18,13 +20,31 @@ function App() {
   return (
     <div className='App'>
       <h1>Compteur</h1>
-      <Counter>{count}</Counter>
+      <Counter style={{ color: "white", fontSize: "40px" }}>{count}</Counter>
+
       <Counter />
       <Button click={remove} content="-"/>
       <Button click={add} content="+"/>
 
+<div className='App'>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+
+<p>--------------------------------------------</p>
+  <h1>SearchBar</h1>
+  <SearchBar />
+</div>
     </div>
-  )
+
+    
+      )
   //   <div className="App">
   //     <header className="App-header">
   //       <img src={logo} className="App-logo" alt="logo" />
