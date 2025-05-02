@@ -26,7 +26,7 @@ Elle permet de :
 ---
 
 ## 📦 Installation
-git clone https://github.com/codeurluce/projet_react.git
-cd projet_react
-npm install
-npm start
+- git clone https://github.com/codeurluce/projet_react.git
+- cd projet_react
+- npm install
+- npm start
