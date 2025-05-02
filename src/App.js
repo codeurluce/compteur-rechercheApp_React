@@ -31,11 +31,6 @@ function App() {
 <br></br>
 <br></br>
 <br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
 
 <p>--------------------------------------------</p>
   <h1>SearchBar</h1>
