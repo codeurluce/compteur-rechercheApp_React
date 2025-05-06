@@ -8,7 +8,7 @@ Elle permet de :
 
 ---
 
-## Apercu
+##  📸 Apercu
 
 ![Apercu de l'image](image.png)
 
