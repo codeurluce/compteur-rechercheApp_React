@@ -8,6 +8,12 @@ Elle permet de :
 
 ---
 
+## Apercu
+
+![Apercu de l'image](image.png)
+
+---
+
 ## ⚙️ Fonctionnalités
 
 ✅ Compteur avec boutons `+` et `-`  
