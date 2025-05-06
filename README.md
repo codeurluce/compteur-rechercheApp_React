@@ -32,7 +32,7 @@ Elle permet de :
 ---
 
 ## 📦 Installation
-- git clone https://github.com/codeurluce/projet_react.git
-- cd projet_react
+- git clone https://github.com/codeurluce/compteur-rechercheApp_React
+- cd compteur-rechercheApp_React
 - npm install
 - npm start
